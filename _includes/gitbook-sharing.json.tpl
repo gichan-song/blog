@@ -7,7 +7,7 @@
               {% if site.github_username %}
                 "github_link": "https://github.com/{{ site.github_username }}",
               {% else %}
-                "github_link": "https://github.com",
+                "github_link": "https://github.com/gichan-song",
               {% endif %}
 
                 "telegram": false,
